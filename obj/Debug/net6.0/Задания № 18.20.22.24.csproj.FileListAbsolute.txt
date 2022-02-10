@@ -1,0 +1,15 @@
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\bin\Debug\net6.0\Задания № 18.20.22.24.exe
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\bin\Debug\net6.0\Задания № 18.20.22.24.deps.json
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\bin\Debug\net6.0\Задания № 18.20.22.24.runtimeconfig.json
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\bin\Debug\net6.0\Задания № 18.20.22.24.dll
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\bin\Debug\net6.0\ref\Задания № 18.20.22.24.dll
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\bin\Debug\net6.0\Задания № 18.20.22.24.pdb
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.csproj.AssemblyReference.cache
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.AssemblyInfoInputs.cache
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.AssemblyInfo.cs
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.dll
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\ref\Задания № 18.20.22.24.dll
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.pdb
+C:\Users\Вася\Desktop\Задания № 18.20.22.24\obj\Debug\net6.0\Задания № 18.20.22.24.genruntimeconfig.cache
